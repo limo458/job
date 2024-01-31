@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799698107572",
+    "project_id": "jopfinder-ba323",
+    "storage_bucket": "jopfinder-ba323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799698107572:android:a82a58899b4f625d68abe1",
+        "android_client_info": {
+          "package_name": "com.example.jopfinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-x8D61MeFJOPjlgSiGqrIDBbWmBHioOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
